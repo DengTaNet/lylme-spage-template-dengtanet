@@ -8,7 +8,7 @@
 - **主题名称**：DengTaNet
 - **版本**：1.1.0
 - **作者**：灯塔导航页
-- **官方网站**：[https://www.dengtanet.com](https://www.dengtanet.com)
+- **演示网站**：[https://www.dengtanet.com](https://www.dengtanet.com)
 
 ## 功能特点
 
